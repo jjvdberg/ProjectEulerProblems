@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace ProjectEulerProblems {
-    class Program {
+    public class Program {
         static void Main() {
             Console.WriteLine();
         }
