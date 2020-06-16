@@ -18,7 +18,7 @@ namespace ProjectEulerProblems {
         /// we can see that the 6th prime is 13.
         /// Here N would be 6 and the return value would be 13.
         /// </summary>
-        /// <param name="N">What prime number would you like to see?</param>
+        /// <param name="N">A positive integer representing what prime number sequence you want to see</param>
         /// <returns>The Nth prime number</returns>
         public static int GetNthPrimeNumber(int N) {
 
