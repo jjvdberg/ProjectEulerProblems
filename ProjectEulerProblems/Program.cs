@@ -3,7 +3,7 @@
 namespace ProjectEulerProblems {
     public class Program {
         static void Main() {
-            int answer = TenThousendAndFirstPrimeNumber.GetNthPrimeNumber(10001);
+            long answer = LargestProductInASeries.ProductOfNAdjacentDigits(13);
             Console.WriteLine($"Answer = {answer}");
         }
     }
