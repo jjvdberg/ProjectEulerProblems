@@ -1,2 +1,3 @@
 # ProjectEulerProblems
-Solution to ProjectEuler.net problems
+Solutions to ProjectEuler.net problems
+For practice purposes
